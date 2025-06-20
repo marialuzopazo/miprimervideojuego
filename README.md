@@ -13,7 +13,10 @@ El proyecto se divide en 4 entregas clave, aplicando herramientas y conceptos fu
 
 * 🧪 Prototipado
 
-* 🎥 Pitch del juego
+* 🎥 Pitch del juego - LINKS de tipos de videos / documentos para presentar
+* Pitch trailer p/ jugadores -  https://www.youtube.com/watch?v=Bv54Br1Vyag  ( pitch trailer p/ jugadores )
+* Pitch para iversionistas / patrocinadores -  https://www.youtube.com/watch?v=aJvzF_bDKGA
+* Pitch para conseguir equipo de trabajo - https://www.youtube.com/watch?v=zbaNbFEpq74
 
 * 📊 Presupuesto y planificación
 
