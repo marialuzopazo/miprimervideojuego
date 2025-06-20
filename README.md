@@ -10,12 +10,12 @@ El proyecto se divide en 4 entregas clave, aplicando herramientas y conceptos fu
 * LINK de lo que fue parte de mi presentación general del videojuego en la clase de exposición:
 * https://www.youtube.com/watch?v=ACjQps7tj64
   
-* 📌CARPETA "primera preentrega" contiene:
+# 📌CARPETA "primera preentrega" contiene:
 - PDF high concept document del videojuego
 - PDF de la presentación del video 1/4 
 LINK 1: https://www.youtube.com/watch?v=qoUuwsQc5nc
 
-* 📌CARPETA "sprites personajes" contiene:
+# 📌CARPETA "sprites personajes" contiene:
 - sprite GIOBIT
 - sprite LUX
 - sprite ADA LOVELACE
