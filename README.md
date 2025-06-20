@@ -13,7 +13,7 @@ El proyecto se divide en 4 entregas clave, aplicando herramientas y conceptos fu
 # 📌CARPETA "primera preentrega" contiene:
 - PDF high concept document del videojuego
 - PDF de la presentación del video 1/4 
-LINK 1: https://www.youtube.com/watch?v=qoUuwsQc5nc
+- LINK 1: https://www.youtube.com/watch?v=qoUuwsQc5nc
 
 # 📌CARPETA "sprites personajes" contiene:
 - sprite GIOBIT
@@ -22,10 +22,12 @@ LINK 1: https://www.youtube.com/watch?v=qoUuwsQc5nc
 - sprite NULL
 - sprite BUGZ
 
+# 📌CARPETA "segunda preentrega" contiene:
 * :) Game Design Document (GDD) 
 
 * 🧪 Prototipado
 
+# 🎥 CARPETA "ELEVATOR PITCH" contiene:
 * 🎥 Pitch del juego - LINKS de tipos de videos / documentos para presentar
 * Pitch trailer p/ jugadores -  https://www.youtube.com/watch?v=Bv54Br1Vyag 
 * Pitch para iversionistas / patrocinadores -  https://www.youtube.com/watch?v=aJvzF_bDKGA
