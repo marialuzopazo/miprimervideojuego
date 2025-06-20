@@ -1,5 +1,5 @@
 # 🎮 Proyecto Final - Desarrollo de Videojuego:
-upso - Tecnicatura en Diseño y Programación de Videojuego 
+1er cuatrimestre con la UPSO - Tecnicatura en Diseño y Programación de Videojuego 
 # "El último Backup"
 
 ¡Bienvenid@s! Este repositorio documenta el desarrollo completo de mi trabajo integrador final, en el que creo un videojuego desde la idea inicial hasta su prototipo jugable.
