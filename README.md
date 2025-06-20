@@ -7,6 +7,9 @@
 # COMO LEER ESTE PROYECTO: 
 El proyecto se divide en 4 entregas clave, aplicando herramientas y conceptos fundamentales del desarrollo profesional de videojuegos como:
 
+* LINK de lo que fue parte de mi presentación general del videojuego en la clase de exposición:
+* https://www.youtube.com/watch?v=ACjQps7tj64
+  
 * 📌 High Concept / MDA - introducción: video 1/4 + presentación del mismo carpeta "primera preetrega"
 * https://www.youtube.com/watch?v=qoUuwsQc5nc
 
