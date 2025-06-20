@@ -5,7 +5,8 @@
 
 El proyecto se divide en 4 entregas clave, aplicando herramientas y conceptos fundamentales del desarrollo profesional de videojuegos como:
 
-* 📌 High Concept
+* 📌 High Concept / MDA - intorducción: video 1/4
+* https://www.youtube.com/watch?v=qoUuwsQc5nc
 
 * :) Game Design Document (GDD)
 
